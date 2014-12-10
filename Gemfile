@@ -41,6 +41,7 @@ gem 'spring',        group: :development
 gem 'carrierwave'
 # gem 'jquery-fileupload-rails'
 gem 'devise'
+gem 'carrierwave_direct'
 
 group :development do
 	gem 'better_errors'
